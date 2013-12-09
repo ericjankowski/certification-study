@@ -1,0 +1,8 @@
+Packages
+========
+java.awt 	- basic graphics and images
+java.swing 	- lightweight components for a GUI
+java.io 	- data streams
+java.net 	- networking
+java.util 	- utilities (collections, events, dates)
+java.lang	- core Java classes 
