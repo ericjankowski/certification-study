@@ -1,8 +1,66 @@
 Packages
 ========
+
+Core Packages
+-------------
+
 java.awt 	- basic graphics and images
-java.swing 	- lightweight components for a GUI
+javax.swing 	- lightweight components for a GUI
 java.io 	- data streams
 java.net 	- networking
 java.util 	- utilities (collections, events, dates)
-java.lang	- core Java classes 
+java.lang	- core Java classes
+
+209 packages in the Java SE 7 API
+
+
+
+Java Utilities API
+------------------
+
+java.util
+
+Java Collections Framework
+date and time facilities
+internationalization
+some miscellaneous utility classes
+
+
+
+Java Basic Input/Output API
+---------------------------
+
+java.io
+
+general system input and output
+data streams
+serialization
+the file system
+
+
+
+Java Networking API
+-------------------
+
+java.net
+
+
+
+Java Abstract Window Toolkit API
+--------------------------------
+
+java.awt
+
+Swing is now recommended
+
+
+
+Java Swing API
+--------------
+
+javax.swing
+javax.swing.text
+javax.swing.plaf
+javax.swing.event
+
+ 
